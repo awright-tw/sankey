@@ -1,1 +1,1 @@
-{"nodes":[{"name":"Agricultural 'waste'"},{"name":"Bio-conversion"},{"name":"Liquid"}],"links":[{"source":0,"target":1,"value":124.729},{"source":1,"target":2,"value":0.597},{"source":1,"target":2,"value":26.862}]}
+{"nodes":[{"name":"Service 1"},{"name":"Service 2"},{"name":"Service 3"},{"name":"Service 4"}, {"name":"DSP 1"} ],"links":[{"source":0,"target":5,"value":30},{"source":0,"target":5,"value":30},{"source":0,"target":5,"value":20},{"source":0,"target":2,"value":20}, {"source":5,"target":5,"value":70}]}
